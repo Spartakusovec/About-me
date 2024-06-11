@@ -31,6 +31,9 @@ plt.plot(X['land_area'], X['crime_rate'])
 plt.show()
 
 plt.scatter(X['physicians'], X['hospital_beds'])
+plt.title('Physicians vs Hospital Beds')
+plt.xlabel('Physicians')
+plt.ylabel('Hospital Beds')
 plt.show()
 
 plt.hist(X['region'])
