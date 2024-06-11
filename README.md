@@ -9,4 +9,9 @@ After some time I realized that I kinda miss doing data science, I forgot many t
 Probably even easier project, again I refreshed some basics with pandas. I had to deal with missing values, replacing them with mean value or most occuring value, nothing hard, but its good to know.
 
 ### Third project - [Matplotlib](https://github.com/Spartakusovec/About-me/blob/main/matplotlip_project.py)
-I wanted to practice visualizing data, so I did this project. I hope that I'll start doing something more complex soon, cause this was fairly easy. But still I enjoyed it.
+I wanted to practice visualizing data, so I did this project. I hope that I'll start doing something more complex soon, cause this was fairly easy. But still I enjoyed it. 
+
+![Scatter plot](https://github.com/Spartakusovec/About-me/assets/65900163/b1e43294-9e47-4ded-9cd4-6c0246d5405c)
+
+Here I checked if there's positive correlation between physicians and hospital beds.
+
