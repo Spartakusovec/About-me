@@ -4,6 +4,10 @@ Basically just a portfolio of projects I did. Mostly just data science because t
 
 I didn"t really stop programming, I just focused more on python in general, so I did these two projects.
 
+[Football simulator](https://github.com/Spartakusovec/Football-simulator)
+
+[Godot game](https://github.com/Spartakusovec/hra_godot)
+
 ## Data Analyze
 
 ### First project - [EDA_Titanic](https://github.com/Spartakusovec/About-me/blob/main/EDA_titanic.py)
