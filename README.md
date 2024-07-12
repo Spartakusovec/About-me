@@ -1,6 +1,7 @@
 # About me
 
 Basically just a portfolio of projects I did. Mostly just data science because that's what I like. 
+I didn"t really stop programming, I just focused more on pythono in general, so I did this project.
 
 ## Data Analyze
 
